@@ -12,6 +12,6 @@ public class MaxConsecutiveOne {
             }
             MaxStreak = Math.max(CurrentStreak,MaxStreak);
         }
-        System.out.println(MaxStreak);;
+        System.out.println(MaxStreak);
     }
 }
